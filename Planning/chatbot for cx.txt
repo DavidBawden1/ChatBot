@@ -1,0 +1,32 @@
+Dialogues for each module and entity in Cx 
+
+	Licensing
+		Assets
+			Knowledge based chat	
+				How to do something
+		Business
+			Knowledge based chat	
+				How to do something
+		vehicles
+			Knowledge based chat	
+				How to do something
+		Contacts
+			Knowledge based chat	
+				How to do something
+		General
+			Knowledge based chat	
+				How to do something
+	Housing
+		a 
+		b
+		c
+	Building/Planning
+		a
+		b
+		c	
+	
+		a
+		b
+		c
+
+Password Resets for each council/District
