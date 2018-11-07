@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ChatBot/v15
+/.vs/slnx.sqlite
+/.vs
+/ChatBot/.vs/ChatBot/v15
+/ChatBot/bin/Debug
+/ChatBot/DeploymentScripts/MsbotClone
+/ChatBot/obj
