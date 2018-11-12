@@ -1,0 +1,9 @@
+LUIS- Enable your bot to understand natural language, understand spelling errors, use speech, and recognize the user's intent
+	Intents - the task or action the user wants to perform. 
+	
+QnA Maker - Add a knowledge base to answer questions users ask in a more natural, conversational way
+
+Dispatch - Manage multiple models - If using more than one model, such as for LUIS and QnA Maker, intelligently determine when to use which one during your bot's conversation
+
+add cards - Add cards and buttons - Enhance the user experience with media other than text, such as graphics, menus, and cards
+

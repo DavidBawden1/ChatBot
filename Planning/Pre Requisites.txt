@@ -1,0 +1,6 @@
+Latest version of Visual Studio 2017 -15.7
+
+dot net core 2.1 
+
+bot builder 
+bot emulator 4.10
