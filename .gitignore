@@ -10,3 +10,5 @@
 /ChatBot/DeploymentScripts/MsbotClone
 /ChatBot/obj
 /ChatBot/.vs/config/applicationhost.config
+/LibraryData/bin/Debug/netcoreapp1.1
+/LibraryData/obj

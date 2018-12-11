@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatBot", "ChatBot.csproj", "{0A204336-307C-4A47-A10D-B70460E632B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatBot", "ChatBot.csproj", "{0A204336-307C-4A47-A10D-B70460E632B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{B5FAFC5E-57CE-418B-A96C-95ED6B70097A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryData", "..\LibraryData\LibraryData.csproj", "{67374359-F377-4FDB-8972-9A6BD267830E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{0A204336-307C-4A47-A10D-B70460E632B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A204336-307C-4A47-A10D-B70460E632B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A204336-307C-4A47-A10D-B70460E632B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67374359-F377-4FDB-8972-9A6BD267830E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67374359-F377-4FDB-8972-9A6BD267830E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67374359-F377-4FDB-8972-9A6BD267830E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67374359-F377-4FDB-8972-9A6BD267830E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{67374359-F377-4FDB-8972-9A6BD267830E} = {B5FAFC5E-57CE-418B-A96C-95ED6B70097A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6727C144-5496-4C4D-B584-6BCBCA521288}
